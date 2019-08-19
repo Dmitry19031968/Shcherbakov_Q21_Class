@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="First_Project.main" target="1.8" />
       <module name="First_Project.test" target="1.8" />
+      <module name="QA_21_Tel_Ran.First_Project.main" target="1.8" />
+      <module name="QA_21_Tel_Ran.First_Project.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
