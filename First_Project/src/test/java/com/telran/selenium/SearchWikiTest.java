@@ -7,6 +7,9 @@ import org.testng.annotations.Test;
 public class SearchWikiTest {
     WebDriver wiki;
 
+
+
+
     @Test
     public void setUp1() throws InterruptedException {
         wiki = new ChromeDriver();
