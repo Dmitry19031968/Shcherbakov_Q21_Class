@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 public class OpenGoogleTest {
     WebDriver driver;
+
     @Test
     public void setUp() throws InterruptedException {
         driver = new ChromeDriver();
@@ -16,4 +17,6 @@ public class OpenGoogleTest {
         Thread.sleep(3000);
         driver.quit();
     }
- }
+
+
+}
